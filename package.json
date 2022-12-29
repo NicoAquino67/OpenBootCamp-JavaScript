@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto en node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstProject"
+  ],
+  "author": "Nico Aquino",
+  "license": "UNLICENSED"
+}
